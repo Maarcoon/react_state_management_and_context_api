@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import MovieList from './MovieList'
+import MovieList from './MovieList';
 
 function App() {
   return (
